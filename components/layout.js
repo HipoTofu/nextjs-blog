@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Jhon Lee';
+const name = 'Jhon Lee S. Reyes';
 export const siteTitle = 'Introduction';
 
 export default function Layout({ children, home }) {

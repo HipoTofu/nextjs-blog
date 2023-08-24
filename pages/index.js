@@ -10,18 +10,23 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is Jhon Lee S. Reyes, 3rd year Computer Engineering.
-          My hobbies are playing video games and watching from anime to kdrama
-          or any sitcom series (watched all the office, the big bang theory, community).
-          My favourite music is anything from bruno mars and my facourite food is French fries.
-          Other things about myself is I like to let my intrusive thoughts win sometimes to make
-          good memories with my friends.
+        <p>
+          My first impression for the first month of the semester so far.
+          First week is all about orientation of the class. Second week 
+          is more on the first module and I am liking it so far. I am 
+          excited to implement codes into machinces or arduinos because
+          I have always thought to myself "how do I put this code in a
+          machines". I am excited to what me and my classmate are going 
+          to make in our future thesis with these lessons.
         </p>
         <p>
-          I took Computer Engineering becuase at first I took it becuase that is what my sister
-          took when she was in college, but now I am liking what Computer Engineering is so I stayed.
-          I would like to see myself exploring in software development in companies or in machine leaning.
-
+          I am excited to learn more in this semester. 
+        </p>
+        <p>
+          Now I know how to update a webpage.
+        </p>
+        <p>
+          (This is a sample website - you’ll be building a site like this on our <a href="https://nextjs.org/learn/">Next.js</a> tutorial.)
         </p>
 
       </section>
