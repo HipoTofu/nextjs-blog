@@ -9,7 +9,6 @@ export default function Home() {
       <Head>
         <title>Manifesto For Agile Software Development</title>
       </Head>
-      <section className={utilStyles.headingMd}>
         <p>
           We are uncovering better ways of developing
           software by doing it and helping others do it.
