@@ -4,7 +4,7 @@ import utilStyles from '../styles/utils.module.css';
 
 export default function Home() {
   return (
-    <Layout home>
+
       
       <Head>
     Manifesto For Agile Software Development
@@ -30,6 +30,6 @@ export default function Home() {
         </p>
 
       </section>
-    </Layout>
+
   );
 }
