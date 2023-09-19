@@ -7,23 +7,23 @@ export default function Home() {
     <Layout home>
       
       <Head>
-        <title>{siteTitle}</title>
+        <title>Manifesto For Agile Software Development</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          My first impression for the first month of the semester so far.
-          First week is all about orientation of the class. Second week 
-          is more on the first module and I am liking it so far. I am 
-          excited to implement codes into machinces or arduinos because
-          I have always thought to myself "how do I put this code in a
-          machines". I am excited to what me and my classmate are going 
-          to make in our future thesis with these lessons.
+          We are uncovering better ways of developing
+          software by doing it and helping others do it.
+          Through this work we have come to value:
         </p>
         <p>
-          I am excited to learn more in this semester. 
+          Individuals and interactions over processes and tools
+          Working software over comprehensive documentation
+            Costumer collaboration over contract negotiation
+              Responding to change over following a plan
         </p>
         <p>
-          Now I know how to update a webpage.
+          That is, while there is value in the items on
+          the right, we value the items on the left more.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on our <a href="https://nextjs.org/learn/">Next.js</a> tutorial.)
