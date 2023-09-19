@@ -7,8 +7,9 @@ export default function Home() {
     <Layout home>
       
       <Head>
+    Manifesto For Agile Software Development
       </Head>
-            <title>Manifesto For Agile Software Development</title>
+            <title></title>
         <p>
           We are uncovering better ways of developing
           software by doing it and helping others do it.
